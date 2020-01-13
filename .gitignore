@@ -1,0 +1,4 @@
+# Files PhpStorm
+.idea/
+# ENVIRONMENT variables
+.env
